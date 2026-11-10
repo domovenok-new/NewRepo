@@ -8,6 +8,7 @@ namespace Lab3
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Студентка: Мария");
+            Console.WriteLine("Студент: Алексей");
             Console.ReadLine(); // Чтобы консоль не закрывалась сразу
         }
     }
