@@ -9,6 +9,8 @@ namespace Lab3
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Студентка: Мария");
             Console.WriteLine("Студент: Алексей");
+            Console.WriteLine("Это моя новая ветка feature!");
+            Console.WriteLine("Студент: Дмитрий");
             Console.ReadLine(); // Чтобы консоль не закрывалась сразу
         }
     }
